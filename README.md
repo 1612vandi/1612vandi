@@ -1,1 +1,2 @@
 - 👋 Hi, I'm the Vandi
+- Full-stack developer specialized in back-end development
