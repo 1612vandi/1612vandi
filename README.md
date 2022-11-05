@@ -1,2 +1,4 @@
-- 👋 Hi, I'm the Vandi
-- Full-stack developer specialized in back-end development
+- 👋 Hi, I'm the Vandi Full-stack developer specialized in back-end development and technology enthusiast.
+
+    💻 I am currently available to work...
+    📚 I'm currently learning java...
